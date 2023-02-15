@@ -1,0 +1,11 @@
+C:\Users\ucenik\Documents\Unos podataka\Unos podataka\bin\Debug\Unos podataka.exe.config
+C:\Users\ucenik\Documents\Unos podataka\Unos podataka\bin\Debug\Unos podataka.exe
+C:\Users\ucenik\Documents\Unos podataka\Unos podataka\bin\Debug\Unos podataka.pdb
+C:\Users\ucenik\Documents\Unos podataka\Unos podataka\obj\Debug\Unos podataka.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\Unos podataka\Unos podataka\obj\Debug\Unos podataka.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\Unos podataka\Unos podataka\obj\Debug\Unos_podataka.Form1.resources
+C:\Users\ucenik\Documents\Unos podataka\Unos podataka\obj\Debug\Unos_podataka.Properties.Resources.resources
+C:\Users\ucenik\Documents\Unos podataka\Unos podataka\obj\Debug\Unos podataka.csproj.GenerateResource.cache
+C:\Users\ucenik\Documents\Unos podataka\Unos podataka\obj\Debug\Unos podataka.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\Unos podataka\Unos podataka\obj\Debug\Unos podataka.exe
+C:\Users\ucenik\Documents\Unos podataka\Unos podataka\obj\Debug\Unos podataka.pdb
